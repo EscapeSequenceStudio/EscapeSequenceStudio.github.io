@@ -1,1 +1,1 @@
-# Escape Sequence Studio
+# Escape Sequence Studio Home
